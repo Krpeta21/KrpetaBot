@@ -1,0 +1,35 @@
+{
+  "name": "krpetabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvingGlt/KrpetaBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrvingGlt/KrpetaBot/issues"
+  },
+  "homepage": "https://github.com/IrvingGlt/KrpetaBot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "@discordjs/voice": "^0.10.0",
+    "discord": "^0.8.2",
+    "discord-api-types": "^0.36.1",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "ffmpeg-static": "^4.4.1",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
