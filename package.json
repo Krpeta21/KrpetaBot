@@ -27,7 +27,7 @@
     "dotenv": "^16.0.1",
     "ffmpeg-static": "^4.4.1",
     "opusscript": "^0.0.8",
-    "ytdl-core": "^4.11.0"
+    "ytdl-core": "^4.11.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
